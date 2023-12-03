@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://localhost/ecommerce/login.php'</initValue>
+      <name>urlLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>correct username</description>
+      <initValue>'ngocanh@gmail.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>correct password</description>
+      <initValue>'hieuthientai2001'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>waitPresentTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>url of customer shop</description>
+      <initValue>'http://localhost/ecommerce/index.php'</initValue>
+      <name>urlShop</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tên công ty</description>
+      <initValue>'HocVienKyThuatMatMa'</initValue>
+      <name>companyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ngõ 21, Yên Xá Tân Triều Thanh Trì Hà Nội'</initValue>
+      <name>address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hà Nội'</initValue>
+      <name>city</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Vietnam'</initValue>
+      <name>country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'70000'</initValue>
+      <name>zipcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0123456789'</initValue>
+      <name>phone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>uploadPlaceOrderTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Product List'</initValue>
+      <name>dataFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'productName'</initValue>
+      <name>inputColumHeader</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://cms.demo.katalon.com/product'</initValue>
+      <name>urlProduct</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Flying Ninja'</initValue>
+      <name>productName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KBAW662S'</initValue>
+      <name>coupon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hoang Ngoc Anh'</initValue>
+      <name>fullname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>username failed</description>
+      <initValue>'ngocanh11@gmail.com'</initValue>
+      <name>username_wrong</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>password wrong</description>
+      <initValue>'123456789'</initValue>
+      <name>password_wrong</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not contain @gmail.com</description>
+      <initValue>'ngocanhneee'</initValue>
+      <name>username_failed_validated</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'&quot; OR 1 = 1 -- -'</initValue>
+      <name>sqli</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>url register</description>
+      <initValue>'http://localhost/ecommerce/registration.php'</initValue>
+      <name>urlRegister</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ONLINE'</initValue>
+      <name>state</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hieuthientai2001'</initValue>
+      <name>pass_register</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hieuthientai2001'</initValue>
+      <name>repass_register</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ngocanh123@gmail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'237'</initValue>
+      <name>vietnamValue</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

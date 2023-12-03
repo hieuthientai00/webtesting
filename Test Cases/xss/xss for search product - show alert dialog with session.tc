@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>xss for search product - show alert dialog with session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a4aa6fa-a194-445c-aee6-d6d2606b3231</testCaseGuid>
+</TestCaseEntity>
